@@ -1,5 +1,7 @@
 # Beds-N-Brews: Project 1 ReadMe
 
+[Link to Project Homepage](https://maniac-i.github.io/Beds-N-Brews/)
+
 ## Overview
 
 ```
@@ -16,6 +18,18 @@ AS An aspiring traveler.
 I WANT to see the nearest hotels and breweries in a city.
 SO THAT I can plan a trip accordingly.
 ```
+
+## User Experience
+
+Home Page
+
+![](BnBHome.png)
+
+Search Results Page
+
+![](BnBSearch.png)
+
+
 
 ## Travel Statistic
   
